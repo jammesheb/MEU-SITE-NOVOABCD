@@ -1,0 +1,147 @@
+body {
+    background-color: #eeeeee;
+    font-family: sans-serif;
+    background-image: url(imagens/fundo-de-ficcao-cientifica-futurista-moderno_35913-2152.avif);
+    background-size: cover;
+    background-position: right;
+  }
+  
+  header {
+    text-align: center;
+    font-size: 23px;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  img {
+    width: 50%;
+  }
+  
+  button {
+    background-color: #c73434;
+    color: #ffffff;
+    padding: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+  }
+  
+  header {
+    text-align: center;
+    
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  img {
+    width: 50%;
+  }
+  
+  input {
+    width: 10%;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #007a1f;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .imagem {
+    margin: 50px;
+  }
+  header {/* Estilos do logotipo e título no cabeçalho */
+    header {
+        display: flex;
+        align-items: center;
+    }
+    
+    .logo img {
+        width: 80px; /* Defina o tamanho desejado para o logotipo */
+        height: auto; /* A altura é ajustada automaticamente para manter a proporção da imagem */
+        margin-right: 10px; /* Espaço entre o logotipo e o título */
+    }
+    
+    h1 {
+        font-size: 10px; /* Tamanho do título */
+        margin: 30; /* Remover margem padrão do título */
+        
+    }
+    
+    }
+/* Estilos do cabeçalho e logotipo */
+header {
+    background-color: #a612eb00; /* Cor de fundo do cabeçalho */
+    color: #ffffff; /* Cor do texto no cabeçalho */
+    padding: 30px; /* Espaçamento interno do cabeçalho */
+    text-align: center;
+      
+}
+
+.logo img {
+    max-width: 20px; /* Defina o tamanho máximo para o logotipo */
+    height: auto; /* A altura é ajustada automaticamente para manter a proporção da imagem */
+}
+img {
+    margin-right: 40px;
+}
+img {
+    margin-right: 30px;
+}
+#meu-titulo {
+    font-size: 90px; /* Tamanho da fonte em pixels */
+}
+.imagem-com-espaco {
+    margin-right: 25px; /* Adiciona uma margem à direita de cada imagem */
+}
+a {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff00;
+    border-radius: 50%;
+    border: 1px solid #ffffff00;
+    color: #ffffff00;
+    text-decoration: none;
+  }
+  
+  a img {
+    width: 49%;
+    height: 49%;
+  }
+  
+  a:hover {
+    background-color: #ffffff;
+    color: #e0e0e0;
+  }
+  .imagem-borda {
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+  }
+  img {
+    margin-bottom: 30px;
+  }
+  
+  
+  
+  
+  
